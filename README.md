@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Abhishek Jain 👋</h1>
 
-<!--
-**abhishekjain71/abhishekjain71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>ML Engineer in Making</b> · B.Tech CSE @ TMU Moradabad · 2nd Year Completed
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-jain06/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rj314801@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/abhishekjain71">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE @ Teerthanker Mahaveer University (CGPA: 8.51)
+- 🔭 Building end-to-end ML pipelines, NLP systems & Computer Vision apps
+- 🌱 Currently learning **LangChain, MLOps, and Generative AI**
+- 💡 Interested in: Machine Learning · NLP · MLOps · FastAPI deployment
+- 📫 Reach me: **rj314801@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**ML / DL**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**MLOps & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🛡️ [Network Security — Phishing Detection Pipeline](https://github.com/abhishekjain71/network-security)
+> End-to-end ML pipeline for phishing URL detection · **97.3% accuracy** · 50,000+ URLs
+> 
+> `Python` `Scikit-learn` `FastAPI` `Streamlit` `MongoDB` `MLflow` `Docker`
+
+---
+
+### 🏥 [Medical Symptom Checker](https://github.com/abhishekjain71/medical-symptom-checker)
+> BioBERT-powered symptom NER + disease classification · **91% F1-score** · 15 disease categories
+>
+> `BioBERT` `FastAPI` `HuggingFace` `NLP`
+
+---
+
+### 🌿 [Crop Disease Detection](https://github.com/abhishekjain71/crop-disease-detection)
+> Transfer learning with EfficientNetB3 · **96.4% accuracy** · 54K+ images · 38 disease classes
+>
+> `TensorFlow` `EfficientNetB3` `Grad-CAM` `Streamlit`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekjain71&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekjain71&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to internship opportunities in ML Engineering & Data Science</i>
+</p>
