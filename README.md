@@ -61,17 +61,14 @@
 
 ## 📌 Featured Projects
 
-### 🛡️ [Network Security — Phishing Detection Pipeline](https://github.com/abhishekjain71/network-security)
+### 🛡️ [Network Security — Phishing Detection Pipeline](https://github.com/abhishekjain71/network_security)
 > End-to-end ML pipeline for phishing URL detection · **97.3% accuracy** · 50,000+ URLs
 > 
 > `Python` `Scikit-learn` `FastAPI` `Streamlit` `MongoDB` `MLflow` `Docker`
 
 ---
 
-### 🏥 [Medical Symptom Checker](https://github.com/abhishekjain71/medical-symptom-checker)
-> BioBERT-powered symptom NER + disease classification · **91% F1-score** · 15 disease categories
->
-> `BioBERT` `FastAPI` `HuggingFace` `NLP`
+
 
 ---
 
