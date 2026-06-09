@@ -72,12 +72,7 @@
 
 ---
 
-### 🌿 [Crop Disease Detection](https://github.com/abhishekjain71/crop-disease-detection)
-> Transfer learning with EfficientNetB3 · **96.4% accuracy** · 54K+ images · 38 disease classes
->
-> `TensorFlow` `EfficientNetB3` `Grad-CAM` `Streamlit`
 
----
 
 ## 📊 GitHub Stats
 
