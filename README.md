@@ -62,7 +62,7 @@
 ## 📌 Featured Projects
 
 ### 🛡️ [Network Security — Phishing Detection Pipeline](https://github.com/abhishekjain71/network_security)
-> End-to-end ML pipeline for phishing URL detection · **97.3% accuracy** · 50,000+ URLs
+> End-to-end ML pipeline for phishing URL detection · **97.3% accuracy** · 11,000+ URLs
 > 
 > `Python` `Scikit-learn` `FastAPI` `Streamlit` `MongoDB` `MLflow` `Docker`
 
