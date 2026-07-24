@@ -74,12 +74,12 @@
 
 ## 📌 Featured Projects
 
-### 🤖 [Enterprise IT Assistant — Production-Grade RAG System](https://github.com/abhishekjain71)
+### 🤖 [Enterprise IT Assistant — Production-Grade RAG System](https://github.com/abhishekjain71/k8s-rag-agent)
 > FastAPI + LangGraph + Qdrant RAG pipeline with NeMo Guardrails for safety and Portkey as LLM gateway for fallback/retry handling · LangSmith observability
 >
 > `LangGraph` `FastAPI` `Qdrant` `NeMo Guardrails` `Portkey` `Docker`
 
-### ✈️ [TripMate-AI — Multi-Agent Travel Planning Chatbot](https://github.com/abhishekjain71)
+### ✈️ [TripMate-AI — Multi-Agent Travel Planning Chatbot](https://github.com/abhishekjain71/tripmate-ai-travel-planner)
 > Multi-agent travel planner built with LangGraph & LangChain · FAISS-based retrieval with persistent conversation memory
 >
 > `LangGraph` `LangChain` `FAISS` `FastAPI`
